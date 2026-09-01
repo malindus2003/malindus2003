@@ -30,35 +30,6 @@
 
 ---
 
-# 🚀 Tech Stack
-
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,cs,php" />
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,express" />
-</p>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react" />
-</p>
-
-### 🗄 Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,firebase,azure" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,postman,arduino" />
-</p>
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
